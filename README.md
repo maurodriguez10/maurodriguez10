@@ -11,6 +11,7 @@ Colombian graduated from the Gimnasio Bilingue Campestre Marie Curie in 2018, wh
 
 <h3 align="left">My Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurodriguez10&show_icons=true&locale=en" alt="maurodriguez10" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurodriguez10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
